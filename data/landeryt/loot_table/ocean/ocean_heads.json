@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/cod/cod_head"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/salmon/salmon_head"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/pufferfish/pufferfish_head"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/tropical_fish/tropical_fish_head"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/squid/squid_head"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/drowned/drowned_head"
+        }
+      ]
+    }
+  ]
+}

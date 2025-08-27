@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt/ocean/ocean_items",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt/ocean/ocean_plants",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt/ocean/ocean_corals",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt/ocean/ocean_heads"
+        }
+      ]
+    }
+  ]
+}
