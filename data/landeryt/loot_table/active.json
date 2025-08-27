@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish",
+          "weight": 65,
+          "quality": -4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:ocean",
+          "weight": 17,
+          "quality": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:junk",
+          "weight": 10,
+          "quality": -2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:treasure",
+          "weight": 6,
+          "quality": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate",
+          "weight": 2,
+          "quality": 1
+        }
+      ]
+    }
+  ]
+}
