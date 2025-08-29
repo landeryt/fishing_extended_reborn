@@ -1,0 +1,44 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:chainmail_armor",
+          "functions": [
+            {
+              "function": "minecraft:reference",
+              "name": "landeryt:powerhouse_armor"
+            },
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.75,
+                "max": 0.9
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:chainmail_armor",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.45,
+                "max": 0.8
+              }
+            },
+            {
+              "function": "minecraft:reference",
+              "name": "landeryt:small_starts_armor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

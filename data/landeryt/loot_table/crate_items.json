@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 6,
+        "max": 9
+      },
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_food"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_ocean",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_treasure",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_minerals",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_blocks",
+          "weight": 2
+        }
+      ]
+    }
+  ]
+}

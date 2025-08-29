@@ -10,22 +10,6 @@
             {
               "type": "minecraft:loot_table",
               "value": "landeryt:active"
-            },
-            {
-              "type": "minecraft:loot_table",
-              "value": "landeryt:afk",
-              "conditions": [
-                {
-                  "condition": "minecraft:entity_properties",
-                  "entity": "this",
-                  "predicate": {
-                    "type_specific": {
-                      "type": "minecraft:fishing_hook",
-                      "in_open_water": false
-                    }
-                  }
-                }
-              ]
             }
           ]
         }

@@ -1,0 +1,42 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:reference",
+              "name": "landeryt:enchant_power"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "components": {},
+              "levels": {
+                "min": 38,
+                "max": 52
+              }
+            },
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:swift_sneak": 0,
+                "minecraft:soul_speed": 0,
+                "minecraft:wind_burst": 0
+              }
+            }            
+          ]
+        }
+      ]
+    }
+  ]
+}

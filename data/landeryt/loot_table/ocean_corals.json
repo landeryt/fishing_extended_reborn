@@ -6,21 +6,21 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "landeryt:coral/coral",
+          "value": "landeryt:coral",
           "weight": 3
         },
         {
           "type": "minecraft:loot_table",
-          "value": "landeryt:coral/coral_fan",
+          "value": "landeryt:coral_fan",
           "weight": 3
         },
         {
           "type": "minecraft:loot_table",
-          "value": "landeryt:coral/dead_coral"
+          "value": "landeryt:dead_coral"
         },
         {
           "type": "minecraft:loot_table",
-          "value": "landeryt:coral/dead_coral_fan"
+          "value": "landeryt:dead_coral_fan"
         }
       ],
       "functions": [
