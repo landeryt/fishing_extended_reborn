@@ -28,7 +28,8 @@
                   "text": "RNGesus Drop!",
                   "italic": false
                 }
-              ]
+              ],
+              "mode": "append"
             },
             {
               "function": "minecraft:set_name",
