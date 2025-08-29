@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_treasure_enchanted",
+          "weight": 530
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:treasure_items",
+          "weight": 410
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_potions",
+          "weight": 59
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:ancient_fishing_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:conduit",
+          "weight": 5,
+          "quality": 1
+        }
+      ]
+    }
+  ]
+}

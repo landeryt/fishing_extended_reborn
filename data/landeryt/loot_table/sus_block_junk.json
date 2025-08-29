@@ -1,0 +1,17 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:junk_items"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:junk_tools"
+        }
+      ]
+    }
+  ]
+}

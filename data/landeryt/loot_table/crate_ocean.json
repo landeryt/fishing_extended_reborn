@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_coral",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_plants",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_drops",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate_heads"
+        }
+      ]
+    }
+  ]
+}

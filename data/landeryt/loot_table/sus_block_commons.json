@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_eggs",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_junk",
+          "weight": 7
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_blocks",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_shards"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_minerals",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

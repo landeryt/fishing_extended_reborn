@@ -1,0 +1,88 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/axolotl_blue/blue_axo_head"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/cod/cod_head",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/axolotl_cyan/cyan_axo_head",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/dolphin/dolphin_head",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/drowned/drowned_head",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/elder_guardian/elder_guardian_head",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/glow_squid/glow_squid_head",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/axolotl_gold/gold_axo_head",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/guardian/guardian_head",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/axolotl_lucy/lucy_axo_head",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/pufferfish/pufferfish_head",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/salmon/salmon_head",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/squid/squid_head",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/tropical_fish/tropical_fish_head",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/turtle/turtle_head",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:fish_heads/axolotl_wild/wild_axo_head",
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

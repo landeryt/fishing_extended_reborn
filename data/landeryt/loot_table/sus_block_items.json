@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_treasure",
+          "weight": 630,
+          "quality": 5
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:crate"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_block_commons",
+          "weight": 1369,
+          "quality": -5
+        }
+      ]
+    }
+  ]
+}

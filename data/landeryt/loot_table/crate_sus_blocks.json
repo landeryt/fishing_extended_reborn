@@ -1,0 +1,31 @@
+{
+  "pools": [
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sand"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gravel"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:sus_blocks",
+          "weight": 2
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "min": 2,
+            "max": 4
+          }
+        }
+      ]
+    }
+  ]
+}

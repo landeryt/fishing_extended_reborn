@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:treasure_iron_tools"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:treasure_chainmail_armor"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:treasure_fishing_rod"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:treasure_crossbow"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:treasure_bow"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:treasure_stone_tools"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "landeryt:single_enchanted_book"
+        }
+      ]
+    }
+  ]
+}
