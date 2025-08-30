@@ -1,4 +1,5 @@
 {
+  "type": "minecraft:archaeology",
   "pools": [
     {
       "rolls": 1,
@@ -14,9 +15,13 @@
       ],
       "functions": [
         {
-          "function": "minecraft:set_loot_table",
-          "type": "minecraft:brushable_block",
-          "name": "landeryt:sus_block_items"
+          "function": "minecraft:set_components",
+          "components": {
+            "minecraft:block_entity_data": {
+              "id": "minecraft:brushable_block",
+              "LootTable": "landeryt:sus_block_items"
+            }
+          }
         },
         {
           "function": "minecraft:set_components",

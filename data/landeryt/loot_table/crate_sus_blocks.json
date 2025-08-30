@@ -13,7 +13,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "landeryt:sus_blocks",
+          "value": "landeryt:sus_block",
           "weight": 2
         }
       ],

@@ -1,4 +1,5 @@
 {
+  "type": "minecraft:archaeology",
   "pools": [
     {
       "rolls": 1,
@@ -9,7 +10,7 @@
         },
         {
           "type": "minecraft:loot_table",
-          "value": "landeryt:treasure_chainmail_armor"
+          "value": "landeryt:treasure_armor"
         },
         {
           "type": "minecraft:loot_table",
